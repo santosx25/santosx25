@@ -1,5 +1,11 @@
-## Hi there 👋
+## **seja bem vindo** 😬
 
+### sou aluno da alura e aqui voce vera meus projetos
+
+#### meu email 📧
+- 00001114233973sp@aluno.educacao.sp.gov.br
+
+  ![](https://media.tenor.com/RIBfq9ue9voAAAAM/lolol-lol.gif)
 <!--
 **santosx25/santosx25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
